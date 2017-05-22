@@ -1,2 +1,2 @@
 # Eternal
-eternalblue
+eternalblue exploit and scanner
